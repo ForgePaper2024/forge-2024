@@ -12,14 +12,15 @@ The folder strong_copyleft contains the API output from the GitHub API, which wa
 
 ## Tertiary Study
 
-The results of the tertiary study are contained in the file [src](https://github.com/ForgePaper2024/forge-2024/tree/main/src)/Data Extraction Responses.csv
+The results of the tertiary study are contained in the file [src](https://github.com/ForgePaper2024/forge-2024/tree/main/src)/Data Extraction Responses.csv.
+
 This is the data we gathered and used to answer RQ 1.
 
 
 
 ## Comment search
 
-The code used to search the leading comments from the dataset for strong copyleft licenses is contained in the file [src](https://github.com/ForgePaper2024/forge-2024/tree/main/src)/stcopyleft_licenses.py
+The code used to search the leading comments from the dataset for strong copyleft licenses is contained in the file [src](https://github.com/ForgePaper2024/forge-2024/tree/main/src)/stcopyleft_licenses.py.
 
 The code used to detect other copyright information is contained in the file [src](https://github.com/ForgePaper2024/forge-2024/tree/main/src)/copyright_tokens.py
 
